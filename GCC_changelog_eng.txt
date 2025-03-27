@@ -1,17 +1,16 @@
-Hello, World !
+- OptiMoto module improvements
+- added shake sensor sensitivity setting
+- added display of changes (changelog)
+- multiple small improvements
 
-- доработки модуля OptiMoto ;
-- добавлена настройка чувствительности датчика встряхивания ;
-- добален показ изменений (changelog) ;
-- множественные небольшие улучшения .
+PREVIOUS CHANGES :
 
-Предыдущие изменения :
 v.3.1
-- добавлен модуль Force Screen Album ;
-- доработки модуля OptiMoto ;
-- множественные небольшие улучшения .
+- added Force Screen Album module
+- OptiMoto module improvements
+- multiple small improvements
 
-v.3.0 (большой релиз)
-- переработан интерфейс GCC ;
-- множество новых модулей
-- множественные небольшие улучшения .
+v.3.0 (major release)
+- redesigned GCC interface
+- many new modules
+- multiple small improvements
