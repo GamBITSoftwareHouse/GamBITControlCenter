@@ -1,16 +1,28 @@
-- OptiMoto module improvements
-- added shake sensor sensitivity setting
-- added display of changes (changelog)
-- multiple small improvements
+v.4.0
 
-PREVIOUS CHANGES :
+- new iPhone Silent Button module
+- new Discharge Alarm module
+- new 5% Charge Shader module
+- new Autobrightness On Phone Start module
+- new Pocket Screen Shader module
+- improvements to the OptiMoto module
+- added sensitivity setting for the shake sensor
+- added animation mode selection in general settings
+- added this list of GCC changes (changelog)
+- added the ability to download the new version of the project as a zip-file with an mdr-file inside
+- a little redesign of the menu
+- multiple minor improvements
+
+PREVIOUS CHANGES:
 
 v.3.1
-- added Force Screen Album module
-- OptiMoto module improvements
-- multiple small improvements
 
-v.3.0 (major release)
-- redesigned GCC interface
-- many new modules
-- multiple small improvements
+- added Force Screen Album module
+- improvements to the OptiMoto module
+- multiple minor improvements
+
+v.3.0
+
+-  redesigned GCC interface
+-  many new modules
+-  multiple minor improvements
