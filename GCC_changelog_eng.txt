@@ -1,4 +1,4 @@
-CHANGE LOG
+CHANGE LOG:
 
 v.4.0
 - new iPhone Silent Button module
