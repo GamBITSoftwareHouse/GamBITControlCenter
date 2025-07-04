@@ -1,5 +1,6 @@
-v.4.0
+CHANGE LOG
 
+v.4.0
 - new iPhone Silent Button module
 - new Discharge Alarm module
 - new 5% Charge Shader module
@@ -16,13 +17,11 @@ v.4.0
 PREVIOUS CHANGES:
 
 v.3.1
-
 - added Force Screen Album module
 - improvements to the OptiMoto module
 - multiple minor improvements
 
 v.3.0
-
 -  redesigned GCC interface
 -  many new modules
 -  multiple minor improvements
