@@ -1,6 +1,7 @@
 ЖУРНАЛ ИЗМЕНЕНИЙ:
 
 v.4.0
+- новый модуль Head-to-Answer
 - новый модуль iPhone Silent Button
 - новый модуль Discharge Alarm
 - новый модуль 5% Charge Shader
