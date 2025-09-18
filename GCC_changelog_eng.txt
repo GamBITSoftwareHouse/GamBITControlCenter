@@ -1,6 +1,7 @@
 CHANGE LOG:
 
 v.4.0
+- new Head-to-Answer module
 - new iPhone Silent Button module
 - new Discharge Alarm module
 - new 5% Charge Shader module
