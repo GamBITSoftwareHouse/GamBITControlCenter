@@ -11,7 +11,7 @@ v.4.0
 - added sensitivity setting for the shake sensor
 - added animation mode selection in general settings
 - added this list of GCC changes (changelog)
-- added the ability to download the new version of the project as a zip-file with an mdr-file inside
+- added the ability to download the new version of the project as a zip-file with the mdr-file inside
 - a little redesign of the menu
 - multiple minor improvements
 
