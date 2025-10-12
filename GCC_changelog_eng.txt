@@ -1,9 +1,12 @@
 CHANGE LOG:
 
-v.5.0
+beta changes
+
+v.5.0b
 - new Game Dimmer module
 - improved Light Night module
-- numerous improvements and fixes
+- menu redesigned
+- numerous improvements and fixes in many modules
 
 v.4.0
 - new Head-to-Answer module
