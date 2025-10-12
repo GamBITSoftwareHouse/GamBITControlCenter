@@ -1,5 +1,10 @@
 CHANGE LOG:
 
+v.5.0
+- new Game Dimmer module
+- improved Light Night module
+- numerous improvements and fixes
+
 v.4.0
 - new Head-to-Answer module
 - new iPhone Silent Button module
