@@ -5,6 +5,7 @@ beta changes
 v.5.0b
 - new Game Dimmer module
 - improved Light Night module
+- added applications-exceptions to the pocket services
 - menu redesigned
 - numerous improvements and fixes in many modules
 
