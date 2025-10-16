@@ -7,7 +7,7 @@ v.5.0b
 - improved Light Night module
 - added applications-exceptions to the pocket services
 - menu redesigned
-- numerous improvements and fixes in many modules
+- numerous improvements and fixes to many modules
 
 v.4.0
 - new Head-to-Answer module
