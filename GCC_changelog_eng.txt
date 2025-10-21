@@ -1,8 +1,6 @@
 CHANGE LOG:
 
-beta changes
-
-v.5.0b
+v.5.0
 - new Game Dimmer module
 - improved Light Night module
 - added applications-exceptions to the pocket services
