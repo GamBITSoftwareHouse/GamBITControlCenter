@@ -1,5 +1,11 @@
 CHANGE LOG:
 
+v.6.0 alpha
+- new main menu design
+- new module Second Call Shader
+- new module YouTube Forever
+- numerous improvements and fixes to many modules
+
 v.5.0
 - new Game Dimmer module
 - improved Light Night module
