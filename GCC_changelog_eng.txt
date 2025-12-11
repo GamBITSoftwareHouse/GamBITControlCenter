@@ -1,6 +1,6 @@
 CHANGE LOG:
 
-v.6.0 alpha
+v.6.0 COMING SOON !
 - new main menu design
 - new module Second Call Shader
 - new module YouTube Forever
