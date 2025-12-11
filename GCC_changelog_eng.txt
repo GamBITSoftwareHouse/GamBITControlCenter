@@ -4,6 +4,7 @@ v.6.0 alpha
 - new main menu design
 - new module Second Call Shader
 - new module YouTube Forever
+- new module Volt Alarm
 - numerous improvements and fixes to many modules
 
 v.5.0
