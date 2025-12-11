@@ -4,6 +4,7 @@ v6.0 alpha
 - новый дизайн основного меню GCC
 - новый модуль Second Call Shader
 - новый модуль YouTube Forever
+- новый модуль Volt Alarm
 - множественные мелкие доработки
 
 v.5.0
