@@ -5,6 +5,7 @@ v6.0 В РАЗРАБОТКЕ !
 - новый модуль Second Call Shader
 - новый модуль YouTube Forever
 - новый модуль Volt Alarm
+- новый модуль Child Locker
 - множественные доработки
 
 v.5.0
