@@ -2,6 +2,7 @@
 
 v6.0 В РАЗРАБОТКЕ !
 - новый дизайн основного меню GCC
+- новый модуль Wi-Fi Auto-OFF
 - новый модуль Second Call Shader
 - новый модуль YouTube Forever
 - новый модуль Volt Alarm
