@@ -1,6 +1,6 @@
 CHANGE LOG:
 
-v.6.0 DEVELOPING !
+v.6.0
 - new main menu design
 - new module Wi-Fi Auto-OFF
 - new module Second Call Shader
