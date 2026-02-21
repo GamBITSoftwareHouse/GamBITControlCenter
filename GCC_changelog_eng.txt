@@ -1,7 +1,7 @@
 CHANGE LOG:
 
 v.6.0
-- new main menu design
+- brand new main menu design
 - new module Wi-Fi Auto-OFF
 - new module Second Call Shader
 - new module YouTube Forever
