@@ -7,6 +7,8 @@ v.6.0
 - новый модуль YouTube Forever
 - новый модуль Volt Alarm
 - новый модуль Child Locker
+- новый модуль Away-to-Mute
+- новый модуль Away-to-End
 - множественные доработки
 
 v.5.0
