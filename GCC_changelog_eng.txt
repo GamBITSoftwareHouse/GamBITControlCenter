@@ -7,6 +7,9 @@ v.6.0
 - new module YouTube Forever
 - new module Volt Alarm
 - new module Child Locker
+- new module Call Back
+- new module Away-to-Mute
+- new module Away-to-End
 - numerous improvements and fixes to many modules
 
 v.5.0
