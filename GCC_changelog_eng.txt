@@ -10,6 +10,10 @@ v.6.0
 - new module Call Back
 - new module Away-to-Mute
 - new module Away-to-End
+- new module for the charts of the battery statistics
+- Game Dimmer improved
+- authorization with the pattern or with fingerprint only
+- installing GCC without any user macro loss (category)
 - numerous improvements and fixes to many modules
 
 v.5.0
