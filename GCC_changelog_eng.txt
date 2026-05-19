@@ -12,7 +12,7 @@ v.6.0
 - new module Away-to-End
 - new module for the charts of the battery statistics
 - Game Dimmer improved
-- authorization with the pattern or with fingerprint only
+- authorization with the pattern or with the fingerprint only
 - installing GCC without any user macro loss (category)
 - numerous improvements and fixes to many modules
 
