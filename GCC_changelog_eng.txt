@@ -38,8 +38,6 @@ v.4.0
 - a little redesign of the menu
 - multiple minor improvements
 
-PREVIOUS CHANGES:
-
 v.3.1
 - added module Force Screen Album
 - improvements to the module OptiMoto
