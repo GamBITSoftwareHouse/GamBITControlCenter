@@ -1,5 +1,11 @@
 CHANGE LOG:
 
+v.7.0 (soon!)
+- new module Volu-Me
+- updating the module YouTube Forever to maintain the latest ByeBye
+- new feature to uninstall the GCC project from MacroDroid with no erasing the user's macros and other data
+- numerous improvements and fixes to many modules
+
 v.6.0
 - brand new main menu design
 - new module Wi-Fi Auto-OFF
