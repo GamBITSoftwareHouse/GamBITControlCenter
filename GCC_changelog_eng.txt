@@ -1,7 +1,12 @@
 CHANGE LOG:
 
-v.8.0
+v.8.0 (coming soon)
 - new module Auto-rotate on Charge
+- new module Child Locker instead of the previous
+- the previous module renamed to App Locker
+- new module Camera Indicator
+- GCC interface improved
+
 
 v.7.0
 - new module Volu-Me
