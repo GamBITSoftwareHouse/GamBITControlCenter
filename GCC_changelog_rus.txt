@@ -1,6 +1,7 @@
 ЖУРНАЛ ИЗМЕНЕНИЙ:
 
 v.8 в работе
+- новый модуль Auto-Rotate on Charge
 - новый модуль Child Locker в замен предыдущего
 - предыдущий модуль переименован в App Locker
 - новый модуль Camera Indicator
