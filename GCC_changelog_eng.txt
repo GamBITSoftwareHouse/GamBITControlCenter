@@ -1,5 +1,8 @@
 CHANGE LOG:
 
+v.8.0
+- new module Auto-rotate on Charge
+
 v.7.0
 - new module Volu-Me
 - updating the module YouTube Forever to support the latest ByeBye
